@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+.header{
+  background-color: #F55A5A;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 55px;
+}
+.headerImage{
+  color: black;
+  width: 24px;
+  height: 24px;
+  margin-right: 7px;
+}
+.header>h3{
+  color: white;
+}
+.main{
+  width: 70%;
+  text-align: center;
+  padding: auto;
+  margin: auto;
+}
+.card{
+  display: flex;
+}
+.cardImage{
+  align-self: flex-start;
+}
