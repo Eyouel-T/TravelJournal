@@ -63,6 +63,10 @@
   align-items: center;
   justify-content: center;
 }
+.locationImage{
+  width: 250px;
+  height: 250px;
+}
 .cardImage{
   width: 3px;
   height: 50px;
@@ -74,6 +78,7 @@
 .details>p{
   max-width: 500px;
 }
+
 .path{
   width: 20px;
   color: #F55A5A;

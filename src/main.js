@@ -9,6 +9,7 @@ export default function Main(){
     return(
         <div className="main">
             {newData}
+            
         </div>
     )
 }
